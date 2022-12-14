@@ -1,7 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text",
-        "id": "e1356850-0f0c-11eb-86a6-0b297e79cf71"
-    }
-]
+[{"title":"Test Title","text":"Test text","id":"e1356850-0f0c-11eb-86a6-0b297e79cf71"},{"title":"Take out trash","text":"the trash man comes between 12-4 so hurry","id":"51848dd0-7bfc-11ed-a7c7-d7e38a3f2c00"},{"title":"Learn how to use Heroku","text":"it is vital for finishing tonight's assignment","id":"c69c71f0-7bfc-11ed-a7c7-d7e38a3f2c00"}]

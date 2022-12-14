@@ -19,8 +19,8 @@ router.get('/notes', (req,res) => {
 
   router.delete('/notes/:id', (req, res) => {
     store
-    .removeNote(req.body)
-    .then((note) => res.json(note))
+    .removeNote(req.params.id)
+    .then((note) => res.json({ok: true }))
     .catch((err) => res.status(500).json(err));
   });
 
